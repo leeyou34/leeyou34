@@ -1,6 +1,7 @@
 ![1849276 - 복사본](https://user-images.githubusercontent.com/81919273/147828473-6fb7f0f2-db96-49bd-bf65-958572abd17a.jpg)
 
   # Well hello, Old sport. 
+  <br>
   
   This is leeyou34 and you can call me Thom
 
@@ -30,6 +31,7 @@
 
 
 ## GitHub Stats
+<br>
 
 <a href="https://github.com/leeyou34/leeyou34">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyou34&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
