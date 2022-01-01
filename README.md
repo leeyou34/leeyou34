@@ -3,7 +3,9 @@
   # Well hello, Old sport. 
   <br>
   
-  This is leeyou34 and you can call me Thom
+  This is leeyou34 and you can call me Thom.
+  
+  I'm certainly glad to see you.
 
 <br>
 <br>
