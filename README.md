@@ -51,7 +51,7 @@
 - 👀 I’m interested in starting new career.
 - 🌱 I’m currently learning HTML CSS and Javascript...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via github... _height=27
+- 📫 How to reach me via github... &line_height=27
 -->
 <!---
 leeyou34/leeyou34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
