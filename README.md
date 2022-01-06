@@ -42,7 +42,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyou34&,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/leeyou34/leeyou34">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leeyou34&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="leeyou34's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leeyou34&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="leeyou34's GitHub Stats"/>
 </a>
 
 
@@ -51,7 +51,7 @@
 - 👀 I’m interested in starting new career.
 - 🌱 I’m currently learning HTML CSS and Javascript...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via github...
+- 📫 How to reach me via github... _height=27
 -->
 <!---
 leeyou34/leeyou34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
